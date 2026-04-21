@@ -1,17 +1,17 @@
 # Lab Work
 
 ## 1. Component Diagram
-![Component Diagram](images/component.png.png)
+![Component Diagram](images/component.jpg)
 
 ---
 
 ## 2. Sequence Diagram
-![Sequence Diagram](images/sequence.png)
+![Sequence Diagram](images/sequence.jpg)
 
 ---
 
 ## 3. State Diagram
-![State Diagram](images/state.png)
+![State Diagram](images/state.jpg)
 
 ---
 
