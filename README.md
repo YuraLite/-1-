@@ -1,17 +1,17 @@
 # Lab Work
 
 ## 1. Component Diagram
-![Component Diagram](лаб малькевич 1.1.png)
+![Component Diagram](images/component.png)
 
 ---
 
 ## 2. Sequence Diagram
-![Sequence Diagram](лабораторна малькевич 1.2.jpg)
+![Sequence Diagram](images/sequence.png)
 
 ---
 
 ## 3. State Diagram
-![State Diagram]( лаб малькевич 1.3.png )
+![State Diagram](images/state.png)
 
 ---
 
