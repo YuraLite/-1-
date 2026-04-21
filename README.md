@@ -1,7 +1,7 @@
 # Lab Work
 
 ## 1. Component Diagram
-![Component Diagram](images/component.jpg)
+![Component Diagram](images/component.png)
 
 ---
 
